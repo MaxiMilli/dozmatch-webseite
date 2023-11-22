@@ -1,4 +1,4 @@
-# Projektdokumentation 'dozmatch'
+# Projektdokumentation von unseren Projekt
 
 Hier dokumentieren wir unser IM I Projekt 'dozmatch'.
 
